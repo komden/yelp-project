@@ -35,11 +35,11 @@ ROBOTSTXT_OBEY = False
 
 CONNECTION_STRING = "{drivername}://{user}:{passwd}@{host}:{port}/{db_name}?charset=utf8".format(
     drivername="mysql",
-    user="yelp_name",
+    user="you_name",
     passwd="you_password",
     host="localhost",
     port="3306",
-    db_name="yelp_db",
+    db_name="you_db_name",
 )
 
 DOWNLOAD_DELAY = 7.5
@@ -54,15 +54,15 @@ METAREFRESH_MAXDELAY = 120
 
 HTTPERROR_ALLOWED_CODES = [301, 302, 303, 304, 307, 308]
 
-MAIL_FROM = 'kompaniec.d.v@gmail.com'
+MAIL_FROM = 'you_name@gmail.com'
 MAIL_HOST = 'smtp.gmail.com'
-MAIL_USER = 'kompaniec.d.v@gmail.com'
+MAIL_USER = 'you_name@gmail.com'
 MAIL_PASS = 'you_password'
 MAIL_SSL = True
 MAIL_PORT = 465
 MAIL_TLS = False
 #MAIL_PORT = 587
-STATSMAILER_RCPTS = 'kompaniec.d.v@gmail.com'
+STATSMAILER_RCPTS = 'to_test@gmail.com'
 
 #--------- 'scrapy_project.middlewares.MyProxyMiddleware': 100, -------#
 PROXY_LIST = ['proxy.txt']
