@@ -13,11 +13,11 @@ pip install mysqlclient
 
 ---
 
-###  settings.py
+	###  settings.py
 
 ---
 
-#### `For connect to database`
+	#### `For connect to database`
 
 drivername="mysql",
 
