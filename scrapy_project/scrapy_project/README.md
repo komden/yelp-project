@@ -1,10 +1,16 @@
 ### 3 Install
 ---
+
 pip install scrapy
+
 pip install Pillow
+
 pip install SQLAlchemy
+
 pip install mysql-connector
+
 pip install mysqlclient
+
 ---
 ### 3  settings.py
 ---
