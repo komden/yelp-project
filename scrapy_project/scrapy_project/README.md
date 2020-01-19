@@ -58,6 +58,7 @@ STATSMAILER_RCPTS = ['test@test.test', 'test2@test.test']
 ---
 
 `File with proxy servers for one`
+
 `https:/8.8.8.8:3180`
 
 `or more`
@@ -68,7 +69,7 @@ STATSMAILER_RCPTS = ['test@test.test', 'test2@test.test']
 
 `....`
 
-`path/name_file relative to the startup folder``
+`path/name_file relative to the startup folder`
 
 PROXY_LIST = ['proxy.txt']
 
@@ -82,9 +83,9 @@ RETRY_TIMES = 10
 
 ---
 
-`Folder with images
+`Folder with images`
 
-path/name_file relative to the startup folder`
+`path/name_file relative to the startup folder`
 
 IMAGES_STORE = 'name_folder'
 
@@ -92,7 +93,7 @@ IMAGES_STORE = 'name_folder'
 
 ### START YOU PROJECT
 
-`cd path_to_project/name_project/name_project/
+`cd path_to_project/name_project/name_project/`
 
 **RUN**`
 
