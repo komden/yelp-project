@@ -75,7 +75,8 @@ STATSMAILER_RCPTS = ['test@test.test', 'test2@test.test']
 PROXY_LIST = ['proxy.txt']
 
 	Number of retries on error
-	When there will be the first RETRY, proxies will not change for this URL. When the retriever becomes 9, then this invalid proxy server will be deleted.
+	When there will be the first RETRY, proxies will not change for this URL. When the retriever becomes 9,
+	then this invalid proxy server will be deleted.
 
 RETRY_TIMES = 10
 
