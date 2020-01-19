@@ -57,19 +57,18 @@ STATSMAILER_RCPTS = ['test@test.test', 'test2@test.test']
 
 ---
 
-`File with proxy servers for one
+`File with proxy servers for one`
+`https:/8.8.8.8:3180`
 
-https:/8.8.8.8:3180
+`or more`
 
-or more
+`https:/8.8.8.8:3180`
 
-https:/8.8.8.8:3180
+`https:/9.9.9.9:8080`
 
-https:/9.9.9.9:8080
+`....`
 
-....
-
-path/name_file relative to the startup folder`
+`path/name_file relative to the startup folder``
 
 PROXY_LIST = ['proxy.txt']
 
