@@ -84,7 +84,7 @@ RETRY_TIMES = 10
 
 	path/name_file relative to the startup folder
 
-IMAGES_STORE = 'name_folder'
+IMAGES_STORE = 'img'
 
 ---
 
